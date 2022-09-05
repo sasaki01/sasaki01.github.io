@@ -1,3 +1,9 @@
+body {
+  background-image: url(https://raw.githubusercontent.com/sasaki01/sasaki01.github.io/main/image/background.jpg);
+  background-position:75% 75%;
+
+}
+
 header {
   text-align: center;
   background-color: greenyellow;
