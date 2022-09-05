@@ -6,3 +6,10 @@ header {
   text-align: center;
   background-color: greenyellow;
 }
+
+img.title
+{
+  display: inline-block;  
+  width: 100px;
+  height: 100px;
+}
